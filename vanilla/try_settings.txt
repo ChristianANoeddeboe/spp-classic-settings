@@ -1,0 +1,23 @@
+Rate.Creature.Normal.Damage = 0.75
+Rate.Creature.Elite.Elite.Damage = 0.5
+Rate.Creature.Elite.RAREELITE.Damage = 0.5
+Rate.Creature.Elite.WORLDBOSS.Damage = 0.5
+Rate.Creature.Elite.RARE.Damage = 0.75
+Rate.Creature.Normal.SpellDamage = 0.75
+Rate.Creature.Elite.Elite.SpellDamage = 0.5
+Rate.Creature.Elite.RAREELITE.SpellDamage = 0.5
+Rate.Creature.Elite.WORLDBOSS.SpellDamage = 0.5
+Rate.Creature.Elite.RARE.SpellDamage = 0.75
+Rate.Creature.Normal.HP = 1.0
+Rate.Creature.Elite.Elite.HP = 0.75
+Rate.Creature.Elite.RAREELITE.HP = 0.75
+Rate.Creature.Elite.WORLDBOSS.HP = 0.75
+Rate.Creature.Elite.RARE.HP = 1.0
+
+And
+
+SoloCraft.Stats.Mult = 300.0
+[2:02 AM]
+so basically raids are:
+HP: 0.75
+Dmg: 0.5
