@@ -1,0 +1,13 @@
+# Ignore all files
+*
+
+# But do not ignore directories, so we can examine their contents
+!*/
+
+!.gitignore
+
+# Do not ignore .conf files in the current directory
+!*.conf
+
+# Do not ignore .conf files in any subdirectory
+!**/*.conf
